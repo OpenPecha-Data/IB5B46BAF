@@ -1,0 +1,150 @@
+id: IB5B46BAF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:05:51.143012'
+last_modified: '2022-06-17T11:05:51.143018'
+parser: null
+source_metadata:
+  title: Avalokiteśvara Series
+  language: pt
+  description: 'A series of texts related to the bodhisattva of compassion, Avalokiteśvara
+    (spyan ras gzigs):'
+  volume:
+    f9B37:
+      title: 'The Refined Essence of Compassion: A Daily Sādhana for the Natural Liberation
+        of Suffering, the Secret Practice of the Great Compassionate One'
+      base_file: f9B37.txt
+      order: 1
+      parent: Dukngal Rangdrol
+    f00F3:
+      title: Detailed Visualization of the Great Compassionate One’s Retinue
+      base_file: f00F3.txt
+      order: 2
+      parent: Dukngal Rangdrol
+    fC1E2:
+      title: 'The Excellent Path to Perfect Liberation: A Guidance Practice (Nedren)
+        for the Dukngal Rangdrol (Natural Liberation of Suffering) Practice of the
+        Great Compassionate One from the Longchen Nyingtik'
+      base_file: fC1E2.txt
+      order: 3
+      parent: Dukngal Rangdrol
+    f09EC:
+      title: 'The Source of Abundant Merit: A Feast-Offering for the Secret Practice
+        of the Great Compassionate One, Natural Liberation of Suffering from The Heart-Essence
+        of the Vast Expanse'
+      base_file: f09EC.txt
+      order: 4
+      parent: Dukngal Rangdrol
+    fAB48:
+      title: The Visualization of the Four Goddesses of the Great Compassionate One,
+        Natural Liberation of Suffering
+      base_file: fAB48.txt
+      order: 5
+      parent: Dukngal Rangdrol
+    f145B:
+      title: 'Clarifying the Self-Initiation: An Empowerment of the Great Compassionate
+        One, the Natural Liberation of Suffering'
+      base_file: f145B.txt
+      order: 6
+      parent: Dukngal Rangdrol
+    f4448:
+      title: 'The Loud Drum of Spring: A Commentary on the Difficult Points of the
+        Ritual of the Great Compassionate One, Natural Liberation of Suffering'
+      base_file: f4448.txt
+      order: 7
+      parent: Dukngal Rangdrol
+    f83AC:
+      title: The Secret Practice of the Great Compassionate One, Natural Liberation
+        of Suffering
+      base_file: f83AC.txt
+      order: 8
+      parent: Dukngal Rangdrol
+    f750D:
+      title: 'Ornament of the Vidyādharas’ Wisdom: A Recitation Manual for the Great
+        Compassionate One, Natural Liberation of Suffering (Dukngal Rangdrol)'
+      base_file: f750D.txt
+      order: 9
+      parent: Dukngal Rangdrol
+    f33DE:
+      title: In Praise of the Lords of the Three Families
+      base_file: f33DE.txt
+      order: 10
+      parent: Praise
+    f7EBE:
+      title: Praise of Noble Avalokiteśvara
+      base_file: f7EBE.txt
+      order: 11
+      parent: Praise
+    f8828:
+      title: Praise of Noble Avalokiteśvara (Tengyur version)
+      base_file: f8828.txt
+      order: 12
+      parent: Praise
+    f2F1B:
+      title: Prayer to Avalokiteśvara
+      base_file: f2F1B.txt
+      order: 13
+      parent: Prayers
+    fA7A2:
+      title: 'The Vision: A Prayer to Ārya Avalokiteśvara'
+      base_file: fA7A2.txt
+      order: 14
+      parent: Prayers
+    fEB1A:
+      title: Prayer to Avalokiteśvara
+      base_file: fEB1A.txt
+      order: 15
+      parent: Prayers
+    f19BD:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      base_file: f19BD.txt
+      order: 16
+      parent: Prayers
+    fD3EB:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: fD3EB.txt
+      order: 17
+      parent: Sādhanas
+    fA04E:
+      title: Visualization and Mantra Recitation of the Great Compassionate One
+      base_file: fA04E.txt
+      order: 18
+      parent: Sādhanas
+    f8A04:
+      title: Visualization and Recitation of the Six-Syllable Mantra of Avalokiteśvara
+      base_file: f8A04.txt
+      order: 19
+      parent: Sādhanas
+    f99B2:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: f99B2.txt
+      order: 20
+      parent: Sādhanas
+    fF01B:
+      title: 'The Wish-Fulfilling Jewel: A Daily Sādhana of the Noble Avalokiteśvara'
+      base_file: fF01B.txt
+      order: 21
+      parent: Sādhanas
+    f151F:
+      title: 'The Sādhana of the Five Self-Arisen Noble Brothers: An Instruction in
+        the Union of Generation and Completion'
+      base_file: f151F.txt
+      order: 22
+      parent: Sādhanas
+    fFFE8:
+      title: 'Far-Reaching Benefit of Beings, Extensive as the Sky: Visualization
+        and Mantra Recitation of the Great Compassionate One'
+      base_file: fFFE8.txt
+      order: 23
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
